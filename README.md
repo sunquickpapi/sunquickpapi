@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Naufal 👋</h1>
+<h1 align="center">Im Naufal, nice to be here 👋</h1>
 <p align="center">
   Intelligent System Engineering student at UiTM · iOS & web developer · building AI that solves real problems
 </p>
