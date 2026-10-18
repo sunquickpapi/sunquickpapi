@@ -1,81 +1,56 @@
-
-
 <p align="center">
-  <a href="https://fvlnzm.my"><img src="title.svg" width="100%" alt="Naufal Nizam, Issue #06" /></a>
+  <a href="https://fvlnzm.my"><img src="cover.svg" width="100%" alt="Naufal Nizam: Intelligent System Engineering student at UiTM, open to internships" /></a>
 </p>
 
 <p align="center">
-  <a href="https://fvlnzm.my"><img src="https://img.shields.io/badge/PORTFOLIO-fvlnzm.my-E23636?style=for-the-badge&labelColor=111111" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-naufal-bin-mohd-nizam-0603b2279"><img src="https://img.shields.io/badge/LINKEDIN-Naufal%20Nizam-2F6FD6?style=for-the-badge&labelColor=111111" alt="LinkedIn" /></a>
-  <a href="mailto:naufalnizam25@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hi-FFD23F?style=for-the-badge&labelColor=111111" alt="Email" /></a>
+  <a href="https://fvlnzm.my"><img src="https://img.shields.io/badge/Portfolio-fvlnzm.my-E23636?style=flat-square&labelColor=111111" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-naufal-bin-mohd-nizam-0603b2279"><img src="https://img.shields.io/badge/LinkedIn-Naufal%20Nizam-2F6FD6?style=flat-square&labelColor=111111" alt="LinkedIn" /></a>
+  <a href="mailto:naufalnizam25@gmail.com"><img src="https://img.shields.io/badge/Email-naufalnizam25%40gmail.com-555555?style=flat-square&labelColor=111111" alt="Email" /></a>
 </p>
 
-<img src="h-origin.svg" width="62%" alt="Origin story" />
+## About
 
-> **Our story so far...** Naufal finished a Computer Science diploma on the Dean's List, led a squad of iOS builders at STDCx, and is now in Semester 6 of Intelligent System Engineering at UiTM. His mission: build AI that works for every skin tone and every pair of eyes.
+I finished a Computer Science diploma on the Dean's List, led a team of iOS builders at STDCx, and I'm now in Semester 6 of Intelligent System Engineering at UiTM. I build apps and AI that work for everyone, from skin analysis that's fair across skin tones to tools for people with disabilities.
 
-<details>
-<summary><b>🔓 Open the classified file</b></summary>
-<br />
+- **Role:** Intelligent System Engineering student, UiTM Sungai Petani
+- **Focus:** iOS (SwiftUI), web (Next.js), applied AI and accessibility
+- **Currently:** DearSkin (final year project), AccessLens, Sime Darby Property Hackathon 2026
+- **Status:** Open to internships · [get in touch](mailto:naufalnizam25@gmail.com)
 
-```swift
-struct Naufal {
-    let role     = "Intelligent System Engineering student"
-    let campus   = "UiTM Sungai Petani, Kedah 🇲🇾"
-    let diploma  = "Computer Science · Dean's List"
-    let building = ["DearSkin", "AccessLens"]
-    let leading  = "Team leader at STDCx (iOS / SwiftUI)"
-    let learning = "Python automation, one small bot at a time"
-}
-```
-
-</details>
-
-<img src="h-player.svg" width="62%" alt="Player select" />
-
-<img src="player.svg" width="100%" alt="Player card: Level 6 Intelligent System Engineer, power levels and stats" />
-
-<img src="h-gear.svg" width="62%" alt="Gear and gadgets" />
+## Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,tensorflow,ts,js,react,nextjs,tailwind,php,mysql,supabase,firebase,vercel,git,figma&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=swift,python,tensorflow,ts,js,react,nextjs,tailwind,php,mysql,supabase,firebase,vercel,git,figma&perline=8" alt="Swift, Python, TensorFlow, TypeScript, JavaScript, React, Next.js, Tailwind, PHP, MySQL, Supabase, Firebase, Vercel, Git, Figma" />
 </p>
 
-<img src="h-missions.svg" width="62%" alt="Missions" />
+## Projects
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/sunquickpapi/DearSkin"><img src="m1-dearskin.svg" width="100%" alt="Mission 01: DearSkin" /></a></td>
-    <td width="50%"><a href="https://github.com/sunquickpapi/dearskin-cinematic-web"><img src="m2-cinematic.svg" width="100%" alt="Mission 02: DearSkin Cinematic" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/DearSkin"><img src="m1-dearskin.svg" width="100%" alt="DearSkin: final year project, skin analysis app" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/dearskin-cinematic-web"><img src="m2-cinematic.svg" width="100%" alt="DearSkin Cinematic: 3D landing page" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/sunquickpapi/JOB-SEARCH-AND-UPSKILLING-APPLICATION"><img src="m3-jobseek.svg" width="100%" alt="Mission 03: JobSeek" /></a></td>
-    <td width="50%"><a href="https://github.com/sunquickpapi/Collaborative-E-Commerce"><img src="m4-lvnastudio.svg" width="100%" alt="Mission 04: LVNASTUDIO" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/JOB-SEARCH-AND-UPSKILLING-APPLICATION"><img src="m3-jobseek.svg" width="100%" alt="JobSeek: accessible job matching" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/Collaborative-E-Commerce"><img src="m4-lvnastudio.svg" width="100%" alt="LVNASTUDIO: custom jersey store" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/sunquickpapi/PORTFOLIO"><img src="m5-portfolio.svg" width="100%" alt="Mission 05: fvlnzm.my" /></a></td>
-    <td width="50%"><img src="m6-ios.svg" width="100%" alt="Mission 06: iOS apps" /></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/PORTFOLIO"><img src="m5-portfolio.svg" width="100%" alt="fvlnzm.my: portfolio with admin dashboard" /></a></td>
+    <td width="50%"><img src="m6-ios.svg" width="100%" alt="iOS apps: PPASRATUHUB, BiteBuddy and Cook King" /></td>
   </tr>
 </table>
 
-<img src="h-quests.svg" width="62%" alt="Active quests" />
-
-- [ ] 🧪 **Main quest · DearSkin:** tune the skin tone model and write up the results
-- [ ] ♿ **AccessLens:** AI-assisted walkway accessibility reporting
-- [ ] 🏙️ **Sime Darby Property Hackathon 2026:** *Township of Tomorrow*
-- [ ] 💼 **Join an internship party** · [send an invite](mailto:naufalnizam25@gmail.com)
-- [x] 🎓 Finish the Computer Science diploma on the Dean's List
-- [x] 📱 Lead a squad at STDCx
-
-<img src="h-achievements.svg" width="62%" alt="Achievements" />
-
-<img src="achievements.svg" width="100%" alt="Achievements: 6 of 7 unlocked" />
-
-<img src="h-stats.svg" width="62%" alt="Battle stats" />
+## Achievements
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sunquickpapi&show_icons=true&hide_border=true&bg_color=00000000&title_color=E23636&icon_color=2F6FD6&text_color=8B949E&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=sunquickpapi&hide_border=true&background=00000000&ring=2F6FD6&fire=E23636&currStreakLabel=E23636&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=8B949E" alt="GitHub streak" />
+  <img src="achievements.svg" width="100%" alt="Dean's List, Team Lead at STDCx, CS Diploma 2025, Apple Apps Development competition entry, Sime Darby Hackathon 2026, shipped an app for a library. Next: internship." />
+</p>
+
+## Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sunquickpapi&show_icons=true&hide_border=true&bg_color=00000000&title_color=E23636&icon_color=2F6FD6&text_color=8B949E&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=sunquickpapi&hide_border=true&background=00000000&ring=2F6FD6&fire=E23636&currStreakLabel=E23636&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=8B949E" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -89,12 +64,10 @@ struct Naufal {
 <summary><b>🎮 Press START</b></summary>
 <br />
 
-**SECRET LEVEL FOUND! +100 XP** 🎉
+**Secret level found! +100 XP** 🎉
 
 You scrolled all the way down. That's the kind of curiosity I like in a teammate. Say hi at [naufalnizam25@gmail.com](mailto:naufalnizam25@gmail.com) and tell me you found the secret level.
 
 </details>
 
-<p align="center">
-  <img src="footer.svg" width="100%" alt="To be continued" />
-</p>
+<p align="center"><sub><i>To be continued…</i></sub></p>
