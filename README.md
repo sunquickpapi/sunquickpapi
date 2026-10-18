@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="header.jpg" width="100%" alt="Header" />
-</p>
+
 
 <p align="center">
   <a href="https://fvlnzm.my"><img src="title.svg" width="100%" alt="Naufal Nizam, Issue #06" /></a>
