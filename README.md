@@ -1,26 +1,104 @@
-<p align="center"> <a href="https://fvlnzm.my"><img src="cover.svg" width="100%" alt="Naufal Nizam: Intelligent System Engineering student at UiTM, open to internships" /></a> </p> <p align="center"> <a href="https://fvlnzm.my"><img src="https://img.shields.io/badge/Portfolio-fvlnzm.my-E23636?style=flat-square&labelColor=111111" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/muhammad-naufal-bin-mohd-nizam-0603b2279"><img src="https://img.shields.io/badge/LinkedIn-Naufal%20Nizam-2F6FD6?style=flat-square&labelColor=111111" alt="LinkedIn" /></a> <a href="mailto:naufalnizam25@gmail.com"><img src="https://img.shields.io/badge/Email-naufalnizam25%40gmail.com-555555?style=flat-square&labelColor=111111" alt="Email" /></a> </p>
-Technologies
-<p align="center"> <img src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br /> <img src="https://img.shields.io/badge/SwiftUI-16337A?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" /> <img src="https://img.shields.io/badge/React-16337A?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Next.js-16337A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-16337A?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/TensorFlow-16337A?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /><br /> <img src="https://img.shields.io/badge/MySQL-2F6FD6?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Supabase-2F6FD6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Firebase-2F6FD6?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Vercel-2F6FD6?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br /> <img src="https://img.shields.io/badge/Git-E23636?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-E23636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Figma-E23636?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Notion-E23636?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /> <img src="https://img.shields.io/badge/Claude-E23636?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /> </p>
-About Me
+<p align="center">
+  <a href="https://fvlnzm.my"><img src="cover.svg" width="100%" alt="Naufal Nizam: Intelligent System Engineering student at UiTM, open to internships" /></a>
+</p>
+
+<p align="center">
+  <a href="https://fvlnzm.my"><img src="https://img.shields.io/badge/Portfolio-fvlnzm.my-E23636?style=flat-square&labelColor=111111" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-naufal-bin-mohd-nizam-0603b2279"><img src="https://img.shields.io/badge/LinkedIn-Naufal%20Nizam-2F6FD6?style=flat-square&labelColor=111111" alt="LinkedIn" /></a>
+  <a href="mailto:naufalnizam25@gmail.com"><img src="https://img.shields.io/badge/Email-naufalnizam25%40gmail.com-555555?style=flat-square&labelColor=111111" alt="Email" /></a>
+</p>
+
+## Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-111111?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br />
+  <img src="https://img.shields.io/badge/SwiftUI-16337A?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/React-16337A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-16337A?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-16337A?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Next.js-16337A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-16337A?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /><br />
+  <img src="https://img.shields.io/badge/TensorFlow-2F6FD6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-2F6FD6?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Flask-2F6FD6?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Firebase-2F6FD6?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-2F6FD6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br />
+  <img src="https://img.shields.io/badge/MySQL-E23636?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Vercel-E23636?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-E23636?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-E23636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br />
+  <img src="https://img.shields.io/badge/Figma-A81F2B?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Notion-A81F2B?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Claude-A81F2B?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+</p>
+
+## About Me
+
 <img src="about-avatar.png" align="left" width="400" alt="Pixel-art Naufal coding on a laptop" />
 
-Hello! I'm Naufal Nizam, an Intelligent System Engineering student at UiTM. I finished my Computer Science diploma on the Dean's List and led a team of iOS builders at STDCx.
+Hello! I'm **Naufal Nizam**, an **Intelligent System Engineering** student at UiTM. I finished my Computer Science diploma on the **Dean's List** and led a team of iOS builders at **STDCx**.
 
-I like building apps and AI that work for everyone, from skin analysis that's fair across skin tones to tools for people with disabilities. Right now I'm sharpening my skills in Swift, SwiftUI, Next.js, Python and TensorFlow.
+I like building apps and AI that work for everyone, from skin analysis that's fair across skin tones to tools for people with disabilities. Right now I'm sharpening my skills in **Swift, SwiftUI, React Native, Next.js, Python and TensorFlow**.
 
-🧪 Currently: DearSkin (final year project), AccessLens, Sime Darby Property Hackathon 2026
-📍 Based in: Sungai Petani, Kedah
-💼 Status: Open to internships · get in touch
+- 🧪 **Currently:** DearSkin (final year project) and AccessLens, which I'm leading for the Sime Darby Property Hackathon 2026
+- 📍 **Based in:** Sungai Petani, Kedah
+- 💼 **Status:** Open to internships · [get in touch](mailto:naufalnizam25@gmail.com)
+
 <br clear="left" />
-Projects
-<table> <tr> <td width="50%"><a href="https://github.com/sunquickpapi/DearSkin"><img src="m1-dearskin.svg" width="100%" alt="DearSkin: final year project, skin analysis app" /></a></td> <td width="50%"><a href="https://github.com/sunquickpapi/dearskin-cinematic-web"><img src="m2-cinematic.svg" width="100%" alt="DearSkin Cinematic: 3D landing page" /></a></td> </tr> <tr> <td width="50%"><a href="https://github.com/sunquickpapi/JOB-SEARCH-AND-UPSKILLING-APPLICATION"><img src="m3-jobseek.svg" width="100%" alt="JobSeek: accessible job matching" /></a></td> <td width="50%"><a href="https://github.com/sunquickpapi/Collaborative-E-Commerce"><img src="m4-lvnastudio.svg" width="100%" alt="LVNASTUDIO: custom jersey store" /></a></td> </tr> <tr> <td width="50%"><a href="https://github.com/sunquickpapi/PORTFOLIO"><img src="m5-portfolio.svg" width="100%" alt="fvlnzm.my: portfolio with admin dashboard" /></a></td> <td width="50%"><img src="m6-ios.svg" width="100%" alt="iOS apps: PPASRATUHUB, BiteBuddy and Cook King" /></td> </tr> </table>
-Achievements
-<p align="center"> <img src="achievements.svg" width="100%" alt="Dean's List, Team Lead at STDCx, CS Diploma 2025, Apple Apps Development competition entry, Sime Darby Hackathon 2026, shipped an app for a library. Next: internship." /> </p>
-Activity
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=sunquickpapi&show_icons=true&hide_border=true&bg_color=00000000&title_color=E23636&icon_color=2F6FD6&text_color=8B949E&rank_icon=github" alt="GitHub stats" /> <img height="160" src="https://streak-stats.demolab.com/?user=sunquickpapi&hide_border=true&background=00000000&ring=2F6FD6&fire=E23636&currStreakLabel=E23636&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=8B949E" alt="GitHub streak" /> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunquickpapi/sunquickpapi/output/snake-dark.svg" /> <img src="https://raw.githubusercontent.com/sunquickpapi/sunquickpapi/output/snake.svg" alt="Snake eating my contribution graph" /> </picture> </p> <details> <summary><b>🎮 Press START</b></summary> <br />
 
-Secret level found! +100 XP 🎉
+## Projects
 
-You scrolled all the way down. That's the kind of curiosity I like in a teammate. Say hi at naufalnizam25@gmail.com and tell me you found the secret level.
+<table>
+  <tr>
+    <td colspan="2"><a href="https://github.com/sunquickpapi/AccessLens"><img src="m0-accesslens.svg" width="100%" alt="Featured: AccessLens, AI-assisted walkway accessibility reporting, Sime Darby Property Hackathon 2026" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sunquickpapi/DearSkin"><img src="m1-dearskin.svg" width="100%" alt="DearSkin: final year project, skin analysis app" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/dearskin-cinematic-web"><img src="m2-cinematic.svg" width="100%" alt="DearSkin Cinematic: 3D landing page" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sunquickpapi/JOB-SEARCH-AND-UPSKILLING-APPLICATION"><img src="m3-jobseek.svg" width="100%" alt="JobSeek: accessible job matching" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/Collaborative-E-Commerce"><img src="m4-lvnastudio.svg" width="100%" alt="LVNASTUDIO: custom jersey store" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sunquickpapi/PORTFOLIO"><img src="m5-portfolio.svg" width="100%" alt="fvlnzm.my: portfolio with admin dashboard" /></a></td>
+    <td width="50%"><img src="m6-ios.svg" width="100%" alt="iOS apps: PPASRATUHUB, BiteBuddy and Cook King" /></td>
+  </tr>
+</table>
 
-</details> <p align="center"><sub><i>To be continued…</i></sub></p>
+## Achievements
+
+<p align="center">
+  <img src="achievements.svg" width="100%" alt="Dean's List, Team Lead at STDCx, CS Diploma 2025, Apple Apps Development competition entry, Sime Darby Hackathon 2026, shipped an app for a library. Next: internship." />
+</p>
+
+## Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sunquickpapi&show_icons=true&hide_border=true&bg_color=00000000&title_color=E23636&icon_color=2F6FD6&text_color=8B949E&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=sunquickpapi&hide_border=true&background=00000000&ring=2F6FD6&fire=E23636&currStreakLabel=E23636&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=8B949E" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunquickpapi/sunquickpapi/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sunquickpapi/sunquickpapi/output/snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+<details>
+<summary><b>🎮 Press START</b></summary>
+<br />
+
+**Secret level found! +100 XP** 🎉
+
+You scrolled all the way down. That's the kind of curiosity I like in a teammate. Say hi at [naufalnizam25@gmail.com](mailto:naufalnizam25@gmail.com) and tell me you found the secret level.
+
+</details>
+
+<p align="center"><sub><i>To be continued…</i></sub></p>
