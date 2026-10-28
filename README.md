@@ -26,7 +26,8 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-2F6FD6?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Flask-2F6FD6?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Firebase-2F6FD6?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-2F6FD6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /><br />
+  <img src="https://img.shields.io/badge/Supabase-2F6FD6?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Cloudflare-2F6FD6?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" /><br />
   <img src="https://img.shields.io/badge/MySQL-E23636?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-E23636?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Vercel-E23636?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -55,7 +56,8 @@ I like building apps and AI that work for everyone, from skin analysis that's fa
 
 <table>
   <tr>
-    <td colspan="2"><a href="https://github.com/sunquickpapi/AccessLens"><img src="m0-accesslens.svg" width="100%" alt="Featured: AccessLens, AI-assisted walkway accessibility reporting, Sime Darby Property Hackathon 2026" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/AccessLens"><img src="m0-accesslens.svg" width="100%" alt="Featured: AccessLens, AI-assisted walkway accessibility reporting, Sime Darby Property Hackathon 2026" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/calm-call"><img src="m00-calmcall.svg" width="100%" alt="Featured: Calm Call, an app that reminds you to call your family and helps you know what to say" /></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/sunquickpapi/DearSkin"><img src="m1-dearskin.svg" width="100%" alt="DearSkin: final year project, skin analysis app" /></a></td>
