@@ -56,7 +56,7 @@ I like building apps and AI that work for everyone, from skin analysis that's fa
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/sunquickpapi/AccessLens"><img src="m0-accesslens.svg" width="100%" alt="Featured: AccessLens, AI-assisted walkway accessibility reporting, Sime Darby Property Hackathon 2026" /></a></td>
+    <td width="50%"><a href="https://github.com/sunquickpapi/AccessLens"><img src="m0-accesslens.svg?v=2" width="100%" alt="Featured: AccessLens, AI-assisted walkway accessibility reporting, Sime Darby Property Hackathon 2026" /></a></td>
     <td width="50%"><a href="https://github.com/sunquickpapi/calm-call"><img src="m00-calmcall.svg" width="100%" alt="Featured: Calm Call, an app that reminds you to call your family and helps you know what to say" /></a></td>
   </tr>
   <tr>
