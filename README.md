@@ -61,7 +61,7 @@ I like building apps and AI that work for everyone, from skin analysis that's fa
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/sunquickpapi/DearSkin"><img src="m1-dearskin.svg" width="100%" alt="DearSkin: final year project, skin analysis app" /></a></td>
-    <td width="50%"><a href="https://github.com/sunquickpapi/dearskin-cinematic-web"><img src="m2-cinematic.svg" width="100%" alt="DearSkin Cinematic: 3D landing page" /></a></td>
+    <td width="50%"><a href="https://dearskin-dummy-web.vercel.app"><img src="m2-cinematic.svg" width="100%" alt="DearSkin Cinematic: 3D landing page" /></a></td>
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/sunquickpapi/JOB-SEARCH-AND-UPSKILLING-APPLICATION"><img src="m3-jobseek.svg" width="100%" alt="JobSeek: accessible job matching" /></a></td>
