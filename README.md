@@ -88,22 +88,5 @@ I like building apps and AI that work for everyone, from skin analysis that's fa
 **Recently shipped**
 
 <!--RECENT:START-->
-- 🚀 Pushed to [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 8 Nov</sub>
-- 🚀 Pushed to [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 9 Nov</sub>
-- 📬 Opened a pull request in [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 9 Nov</sub>
-- 📬 Opened a pull request in [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 9 Nov</sub>
-- 📬 Opened a pull request in [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 8 Nov</sub>
-- 📬 Opened a pull request in [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 8 Nov</sub>
+- ⏳ Filled in automatically by the daily update
 <!--RECENT:END-->
-
-<details>
-<summary><b>🎮 Press START</b></summary>
-<br />
-
-**Secret level found! +100 XP** 🎉
-
-You scrolled all the way down. That's the kind of curiosity I like in a teammate. Say hi at [naufalnizam25@gmail.com](mailto:naufalnizam25@gmail.com) and tell me you found the secret level.
-
-</details>
-
-<p align="center"><sub><i>To be continued…</i></sub></p>
