@@ -82,16 +82,14 @@ I like building apps and AI that work for everyone, from skin analysis that's fa
 ## Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sunquickpapi&show_icons=true&hide_border=true&bg_color=00000000&title_color=E23636&icon_color=2F6FD6&text_color=8B949E&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=sunquickpapi&hide_border=true&background=00000000&ring=2F6FD6&fire=E23636&currStreakLabel=E23636&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E&stroke=8B949E" alt="GitHub streak" />
+  <img src="level-up.svg" width="100%" alt="My GitHub stats as a game: level, contributions, streak, top languages and latest project. Updated daily." />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunquickpapi/sunquickpapi/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sunquickpapi/sunquickpapi/output/snake.svg" alt="Snake eating my contribution graph" />
-  </picture>
-</p>
+**Recently shipped**
+
+<!--RECENT:START-->
+- ⏳ Filled in automatically by the daily update
+<!--RECENT:END-->
 
 <details>
 <summary><b>🎮 Press START</b></summary>
