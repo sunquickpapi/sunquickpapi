@@ -88,5 +88,10 @@ I like building apps and AI that work for everyone, from skin analysis that's fa
 **Recently shipped**
 
 <!--RECENT:START-->
-- ⏳ Filled in automatically by the daily update
+- 🚀 Pushed to [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 9 Nov</sub>
+- 🚀 Pushed to [dearskin-cinematic-web](https://github.com/sunquickpapi/dearskin-cinematic-web) <sub>· 10 Nov</sub>
+- 🚀 Pushed to [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 8 Nov</sub>
+- 📬 Opened a pull request in [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 9 Nov</sub>
+- 📬 Opened a pull request in [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 9 Nov</sub>
+- 📬 Opened a pull request in [PORTFOLIO](https://github.com/sunquickpapi/PORTFOLIO) <sub>· 8 Nov</sub>
 <!--RECENT:END-->
